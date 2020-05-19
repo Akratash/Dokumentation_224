@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CoronaproviderApplication<coronaprovider>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "ch.akratash.m226b.lb1.coronaprovider.CoronaproviderApplication",
+            "projectName": "coronaprovider",
+            "args": ""
+        }
+    ]
+}
